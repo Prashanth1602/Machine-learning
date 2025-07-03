@@ -1,0 +1,22 @@
+# Data Preprocessing Task
+
+This project demonstrates a basic data preprocessing pipeline in Python. It covers:
+
+1. Importing and exploring the dataset
+2. Handling missing values using mean/median/mode imputation
+3. Encoding categorical variables
+4. Standardizing numerical features
+5. Visualizing and removing outliers using boxplots and IQR method
+
+## How to Run
+
+1. Make sure you have Python and the required libraries installed:
+   - pandas
+   - numpy
+   - scikit-learn
+   - seaborn
+   - matplotlib
+
+2. Run the script:
+```bash
+python preprocessing.py
