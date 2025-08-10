@@ -14,6 +14,7 @@ The repository is organized into several directories, each containing a specific
 - `exploratory-data-analysis/`: Exploratory data analysis projects
 - `linear-regression/`: Implementation of linear regression
 - `support vector machines/`: Implementation of Support Vector Machines
+-  `Image classification using CIFARID Dataset/`: Implentation of simple image clssification using ANN
 
 ## Prerequisites
 
